@@ -1,0 +1,4 @@
+git status
+git add "nome do arquivo"
+git add * 
+git commit -m "Primeiro commit"
